@@ -1,1 +1,1 @@
-# CMM-based-black-and-white-image-colurization-using-OpenCV
+# CNN-based-black-and-white-image and video-colurization-using-OpenCV
